@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi there, I'm Nada 👋
+<img align="left" width="47%" alt="Nada's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=NadaMoheyeldin&show_icons=true&theme=transparent"/>
+<img align="left" width="47%" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadaMoheyeldin&layout=compact"/>
 <!--
 **NadaMoheyeldin/NadaMoheyeldin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
